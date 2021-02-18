@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SunnyWeather</string>
+    <string name="app_name">天气预报</string>
     <string name="searchPlaceHint">输入地址</string>
     <string name="verLineText">|</string>
     <string name="forecast">预报</string>
